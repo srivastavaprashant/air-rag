@@ -1,0 +1,12 @@
+transformers
+streamlit
+python-dotenv
+langchain
+langchain-community
+torch
+sentence-transformers
+bitsandbytes
+accelerate
+faiss-cpu
+poetry
+ipykernel
